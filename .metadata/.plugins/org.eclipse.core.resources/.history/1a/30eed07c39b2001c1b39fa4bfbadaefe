@@ -1,0 +1,13 @@
+package test;
+
+public class Practice1 {
+	
+	
+	
+	public void Demo(){
+		
+		System.out.println("Hellow");
+		
+	}
+
+}

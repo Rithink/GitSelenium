@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+prefWatchExpressions=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<watchExpressions>\n    <expression enabled\="true" text\="&\#9;&\#9;driver.findElement(By.cssSelector(&quot;.im-para.red&quot;)).getText().split(&quot;at&quot;)[1].trim().split(&quot; &quot;)[0];"/>\n    <expression enabled\="true" text\=""/>\n    <expression enabled\="true" text\="actual.split()"/>\n    <expression enabled\="true" text\="actual.split(&quot;\:&quot;)[1].trim();"/>\n</watchExpressions>\n
