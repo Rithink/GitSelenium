@@ -8,6 +8,8 @@ public class axisTest {
 		System.setProperty("webdriver.chrome.driver", "/Users/rithinkumar/Downloads/chromedriver");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://betaservices.axismf.com/");
+		driver.get("https://www.axismf.com/");
+		driver.get("https://m.axismf.com/");
 		Thread.sleep(5000);
 		driver.navigate().refresh();
 		driver.findElement(By.xpath("//li[2]//div[1]//ion-button[1]")).click();
