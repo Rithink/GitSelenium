@@ -22,8 +22,8 @@ public class practice {
 		driver.findElement(By.xpath("//button[@class='_2KpZ6l _2HKlqd _3AWRsL']")).click();
 		driver.findElement(By.xpath("(//button[contains(text(),'✕')])[1]")).click();
 		driver.quit();
-		System.out.println("This is added to test git");
-		System.out.println("This is added to test git");
+		System.out.println("This is added to test new window eclipse");
+		
 		
 	}
 	
